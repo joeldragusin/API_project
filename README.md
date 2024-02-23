@@ -1,1 +1,1 @@
-
+This Python script, "Dad Jokes 3000," fetches jokes from an online database based on user input. It utilizes pyfiglet for stylized text and termcolor for colored output. Users input a search term, and the script returns a random joke or a selection if multiple matches are found.
